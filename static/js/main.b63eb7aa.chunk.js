@@ -1,0 +1,2 @@
+(this.webpackJsonpbucket=this.webpackJsonpbucket||[]).push([[0],{9:function(e,t,c){"use strict";c.r(t);var n=c(1),r=c.n(n),s=c(3),o=c.n(s),i=c(0);var u=function(){return Object(i.jsx)("div",{children:"Rock & Roll rules!"})};o.a.render(Object(i.jsx)(r.a.StrictMode,{children:Object(i.jsx)(u,{})}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.b63eb7aa.chunk.js.map
